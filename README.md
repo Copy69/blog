@@ -2,8 +2,10 @@
 
 <details>
     <summary>
-        <a href="https://blog.csdn.net/zhongzunfa/article/details/80344585">github fork 别人的项目源作者更新后如何同步更新_zhongzunfa的专栏</a>- CSDN博客
+        ☞ <b><a href="https://blog.csdn.net/zhongzunfa/article/details/80344585">github fork 别人的项目源作者更新后如何同步更新</a></b> - CSDN博客
      </summary> 
+    <br/>
+    <blockquote>
     <p>1. 打开fork 过来的项目如下所示&#xff1a;</p>
 <p><img src="https://img-blog.csdn.net/20180516231917396?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3pob25nenVuZmE&#61;/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA&#61;&#61;/dissolve/70" alt="" /><br /></p>
 <p><br /></p>
@@ -31,7 +33,7 @@
 <p><br /></p>
 <p>到此就完成了&#xff1a;</p>
 <p><img src="https://img-blog.csdn.net/20180517015606900?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3pob25nenVuZmE&#61;/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA&#61;&#61;/dissolve/70" alt="" /><br /></p>
-<p><br /></p>
+<p><br /></p></blockquote>
 </details>
 
 # 关于【业务域名】- 微信公众号平台
