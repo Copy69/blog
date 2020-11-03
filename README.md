@@ -1,4 +1,4 @@
-# blog
+# blog ：[master - 官方转载版](https://github.com/Copy69/blog/tree/master/html/) | [index - 提前预览版](https://github.com/Copy69/blog/tree/index/html/)
 
 <details>
     <summary>
